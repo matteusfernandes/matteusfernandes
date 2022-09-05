@@ -11,7 +11,7 @@
         programmingLanguages: ['JavaScript', 'Python'],
         languages: ['Português', 'Inglês']
     },
-    myHobbies: [ 'Games', 'Airsoft', 'Filmes', 'Ouvir Música', 'Séries']
+    myHobbies: [ 'Games', 'Airsoft', 'Filmes', 'Música', 'Séries']
   }
 ```
 ---
