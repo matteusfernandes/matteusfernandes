@@ -1,7 +1,7 @@
   ```javascript
   const matteusfernandes = {
     mySalutation: 'Boas Vindas ao meu perfil e Obrigado pela gentileza da sua visita!',
-    myName: 'Sou a Matteus Fernandes',
+    myName: 'Matteus Fernandes',
     myStatus: 'Desenvolvedor Web Full Stack',
     myStacks: {
         frontEnd: ['React', 'Redux', 'HTML', 'CSS'],
