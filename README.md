@@ -1,14 +1,19 @@
-## Olá meu nome é Matteus Fernandes!
-
-<div align="center">
-  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
-  <div align="left" style="display: inline_block">
-    <li>- 🔭 Desenvolvedor Web Full Stack</li>
-    <li>- 💬 Me pergunte sobre Tecnologia e Jogos</li>
-    <li>- 😄 Pronomes: ele/dele/he/him</li>
-  </div>
-</div>
-
+  ```javascript
+  const matteusfernandes = {
+    mySalutation: 'Boas Vindas ao meu perfil e Obrigado pela gentileza da sua visita!',
+    myName: 'Sou a Matteus Fernandes',
+    myStatus: 'Desenvolvedor Web Full Stack',
+    myStacks: {
+        frontEnd: ['React', 'Redux', 'HTML', 'CSS'],
+        backEnd: ['MongoDB', 'MySQL', 'Node.js', 'Express', 'ORM com Sequelize']
+    },
+    myLanguages: {
+        programmingLanguages: ['JavaScript', 'Python'],
+        languages: ['Português', 'Inglês']
+    },
+    myHobbies: [ 'Games', 'Airsoft', 'Filmes', 'Ouvir Música', 'Séries']
+  }
+```
 ---
 
 <div align="center">
